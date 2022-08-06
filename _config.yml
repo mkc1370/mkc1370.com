@@ -1,0 +1,14 @@
+title: mkc1370
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  social_links:
+    twitter: mkc1370
+    github: mkc1370
+
+google_analytics: G-1N815EC5ZN
+
+plugins:
+ - jekyll-seo-tag
