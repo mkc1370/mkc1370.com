@@ -57,6 +57,12 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |-|-|-|-|
 |2022/5|Dentoo.LT #27|VTuberの配信技術について|[connpass](https://dentoolt.connpass.com/event/246166/)<br>[YouTube](https://youtu.be/OytEz7U2pek?t=5210)|
 
+## ハッカソン
+
+|年月|イベント名|担当箇所|賞|リンク|
+|-|-|-|-|-|
+|2022/8|PLATEAU Hack Challenge 2022 in ヒーローズ・リーグ|ゲーム全般・VR|ホロラボ賞・Unity賞|[connpass](https://asciistartup.connpass.com/event/246677/)<br>[Twitter](https://twitter.com/mkc1370/status/1563892139175854080)|
+
 ## フリーランスのお仕事
 
 |年月|名前|担当箇所等|リンク|
