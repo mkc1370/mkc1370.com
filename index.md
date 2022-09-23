@@ -100,8 +100,8 @@ VRChatではnullちゃんというオリジナルアバターを使っていま�
 |制作年月|名前|技術|リンク|
 |-|-|-|-|
 |2015|AR・画像処理|C++, ARToolKit, OpenCV, 3ds Max||
-|2016|イントロクイズ|C#, Windows Form, Raspberry Pi, C|[動画](https://drive.google.com/file/d/1-z5MDFATj6EK67HAnVAPMuMRXlUVdw-W/view?usp=sharing)|
-|2016|りんな VS Wikipedia|UWSC, C#|[記事](https://www.itmedia.co.jp/news/articles/1604/07/news114.html)<br>[YouTube](https://youtu.be/M5hjoXmNZwk)|
+|2016/4|りんな VS Wikipedia|UWSC, C#|[記事](https://www.itmedia.co.jp/news/articles/1604/07/news114.html)<br>[YouTube](https://youtu.be/M5hjoXmNZwk)|
+|2016/6|イントロクイズ|C#, Windows Form, Raspberry Pi, C|[動画](https://drive.google.com/file/d/1-z5MDFATj6EK67HAnVAPMuMRXlUVdw-W/view?usp=sharing)|
 |2016|フェイストラッキング|OpenCV, DXライブラリ, MMD|[Twitter](https://twitter.com/mkc1370/status/1146436834139856896)|
 |2017|フェイストラッキング|Python, Caffe||
 |2017|SLAM|Python, Tensorflow, Realsense||
