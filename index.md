@@ -7,7 +7,11 @@ lang: ja_JP
 ときどきお仕事をしている学生です。
 最近はUnity, C#, 3DGC, 配信, VR, VRChat, ネットワークに興味があります。
 
-VRChatではnullちゃんというオリジナルアバターを使っています。[nullちゃんについて](https://mkc1370.notion.site/mkc1370/null-9d4a3a0aa39c4f72bf6a7d07aace45e0)
+最近作ったものは[こちら](https://twitter.com/i/events/1255719457629995008)。
+
+VRChatでは
+[nullちゃん](https://mkc1370.notion.site/mkc1370/null-9d4a3a0aa39c4f72bf6a7d07aace45e0)
+というオリジナルアバターを使っています。
 
 ご連絡等がありましたら[Twitter](https://twitter.com/mkc1370)へDMをお願いします。
 
