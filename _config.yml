@@ -4,9 +4,10 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  # ref : https://stackoverflow.com/questions/74408145/minima-theme-build-shows-liquid-exception-invalid-syntax-for-include-tag-file
   social_links:
-    twitter: mkc1370
-    github: mkc1370
+    - { platform: twitter, user_url: "https://twitter.com/mkc1370" }
+    - { platform: github, user_url: "https://github.com/mkc1370" }
 
 google_analytics: G-1N815EC5ZN
 
