@@ -60,6 +60,7 @@ VRChatでは
 |年月|イベント名|発表内容|リンク|
 |-|-|-|-|
 |2022/5|Dentoo.LT #27|VTuberの配信技術について|[connpass](https://dentoolt.connpass.com/event/246166/)<br>[YouTube](https://youtu.be/OytEz7U2pek?t=5210)|
+|2022/12|MCCMMANCC2022|今年の学祭で作ったもの|[MCCMMANCC2022](https://uecmma.github.io/MCCMMANCC2022/)|
 
 ## ハッカソン
 
