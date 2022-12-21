@@ -100,6 +100,7 @@ VRChatでは
 |2019/5|ポリゴンリダクション|最適化, BlendShape|[Twitter](https://twitter.com/mkc1370/status/1126118019225100288)|
 |2020|モーションキャプチャ配信|Perception Neuron Studio, Axis Studio, YouTube Data API||
 |2022|レースゲーム（PM・PG）|Mirror|[Twitter](https://twitter.com/TUATMCC/status/1590661453123842048)|
+|2022|モーションキャプチャ体験コーナー|Perception Neuron Studio, Axis Studio|[Twitter](https://twitter.com/TUATMCC/status/1590661453123842048)|
 
 ### その他
 
